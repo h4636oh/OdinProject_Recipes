@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'Norse';
+    src: url(./Norse.otf) format('opentype');
+}
+
+.heading {
+    font-family: 'Norse';
+}
+
 .index_recipe_img {
-    width: 100px;
-    height: auto;
+    width: 300px;
+    height: 300px;
 }
